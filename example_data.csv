@@ -1,0 +1,5 @@
+﻿"Title","Case ID","Comments","Expected Result","Run ID","Steps"
+"A valid location id","C126316","STG (master_362)","200","R4176","85e3db85-b83b-4779-bd8e-2d3b32a1e730"
+"When locationId is not provided","C126317","STG (master_362)","400","R4176"," "
+"When provided locationId is no valid","C126318","STG (master_362)","400","R4176","invalid-data-customerId_etc"
+"When no matching location is found","C126319","STG (master_362)","200404","R4176","347c501f-8385-4ccd-a24f-c26e32784611"
